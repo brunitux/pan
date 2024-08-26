@@ -3,7 +3,7 @@ namespace my.bookshop;
 entity Books {
   key ID : Integer;
   title  : String;
-  author : Association to Authors;
+  author : bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla Association to Authors;
 }
 
 entity Authors {
