@@ -9,5 +9,5 @@ entity Books {
 entity Authors {
   key ID   : Integer;
   name     : String;
-  books    : books.author = $self;
+  books    : bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla books.author = $self;
 }
