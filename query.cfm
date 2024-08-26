@@ -13,7 +13,7 @@
   <cfoutput query="getUsers">
     <tr>
       <td>#id#</td>
-      <td>#name# bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</td>
+      <td>#name# bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</td>
       <td>#email#</td>
     </tr>
   </cfoutput>
