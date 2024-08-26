@@ -17,4 +17,4 @@
       <td>#email#</td>
     </tr>
   </cfoutput>
-</table>
+</table>                                              
